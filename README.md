@@ -1,4 +1,8 @@
-Make pictures of Scratch blocks from text.
+# This Project is Deprecated.
+# Please use the latest version of [scratchblocks](https://github.com/scratchblocks/scratchblocks)
+This was an old hacky attempt to mod [@tjvr](https://github.com/tjvr)'s scratchblocks to appear as close to the Scratch 3.0 style as I was able, maintaining compatibility with the forums and serving as a drop in replacement. The original project has since been updated to support both Scratch 2.0 and 3.0 styles. While s3blocks does technically work, I will not/cannot recommend using it over the original project. Thank you for allowing me the ability to work on this as an early exploration of my development abilities. I appologize as well for the small bit of impatience I displayed at the time of development as well.
+
+## Make pictures of Scratch blocks from text.
 
 [![Screenshot](http://s3blocks.github.io/screenshot.png)](https://s3blocks.github.io/#when%20flag%20clicked%0Aclear%0Aforever%0Apen%20down%0Aif%20%3C%3Cmouse%20down%3F%3E%20and%20%3Ctouching%20%5Bmouse-pointer%20v%5D%3F%3E%3E%20then%0Aswitch%20costume%20to%20%5Bbutton%20v%5D%0Aelse%0Aadd%20(x%20position)%20to%20%5Blist%20v%5D%0Aend%0Amove%20(foo)%20steps%0Aturn%20ccw%20(9)%20degrees)
 
